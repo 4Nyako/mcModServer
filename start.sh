@@ -1,1 +1,1 @@
-java -Xms256M -Xmx768M -jar CatServer-1b57158-universal.jar
+java -Xms512M -Xmx1024M -jar CatServer-de043b8-universal.jar

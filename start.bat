@@ -1,1 +1,1 @@
-java -Xms2048M -Xmx3000M -jar CatServer-1b57158-universal.jar
+java -Xms2048M -Xmx3000M -jar CatServer-de043b8-universal.jar
